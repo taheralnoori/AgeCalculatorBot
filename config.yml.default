@@ -1,4 +1,4 @@
 agecalculator:
-  bottoken: <BotToken>
-  errorid: <User-ID>
-  debug: <True-or-False>
+  bottoken: "5280846573:AAHZC3nn4HAsq-HwCpFqdUkx79rnq2PsbEA"
+  errorid: 2123287629
+  debug: <True>
